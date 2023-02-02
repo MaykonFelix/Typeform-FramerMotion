@@ -2,10 +2,15 @@
  New Learning
 
 <h1 align="center">
-UI Clone (Motion) - Typeform Homepage
+UI Clone (Motion) - Typeform Homepage ( Old )
 </h1>
 
-<p align="center">Typeform Homepage motion clone for study purposes.</p>
+<p align="center">
+<img width="460" height="300" src="gif.gif">
+</p>
+
+
+<p align="center">Typeform Old Homepage motion clone for study purposes.</p>
 
 <hr>
 
@@ -18,5 +23,6 @@ UI Clone (Motion) - Typeform Homepage
 
 ## Starting Dev Environment
 
+1. cd `/FramerMotion`.<br />
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start`.<br />
