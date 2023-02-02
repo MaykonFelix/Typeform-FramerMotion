@@ -6,13 +6,44 @@ export const Main = styled.main`
         background: red;
         overflow: hidden;
 
-        .offset {
 
+        .offset {
+            width: 100%;
+            height: 100%;
         }
 
-        .a { background: #f5f1ea}        
-        .b { background: #582534}     
-        .c { background: #0a7397}     
+        .a { 
+            background: #f5f1ea; 
+            height: 100%; 
+            display: flex; 
+            align-items: flex-end;
+
+            .left-side {
+                width: 50%;
+                height: 100%;
+                background: #7dbb91;
+            }
+            .right-side {
+                width: 50%;
+                height: 100%;
+
+                .right-image {
+                    background: #7dbb91;
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+        }        
+        .b { 
+            background: #582534;
+            width: 100%;
+            height: 100%;
+        }     
+        .c { 
+            background: #0a7397;
+            width: 100%;
+            height: 100%;
+        }     
     }
     .second{ background: green }
     .third{ background: yellow }
