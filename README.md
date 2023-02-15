@@ -24,5 +24,5 @@ UI Clone (Motion) - Typeform Homepage ( Old )
 ## Starting Dev Environment
 
 1. cd `/FramerMotion`.<br />
-1. Run `npm install` or `yarn install`.<br />
-2. Run `yarn start`.<br />
+1. `yarn install`.<br />
+2. `yarn dev`.<br />
