@@ -26,3 +26,5 @@ UI Clone (Motion) - Typeform Homepage ( Old )
 1. cd `/FramerMotion`.<br />
 1. `yarn install`.<br />
 2. `yarn dev`.<br />
+
+Feito com ♥ by Maykon <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" />
